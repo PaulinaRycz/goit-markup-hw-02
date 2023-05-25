@@ -1,4 +1,112 @@
-.title { font: roboto;
+.title { font: 'Roboto';
     font-weight: 900;
-    color: #FFFFFF;}
-    
+    color: #FFFFFF;
+background-color: #2F303A;}
+.signatures {
+color:#212121;
+font: 'Roboto';
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+}
+.apps {
+font:'Roboto';
+font-weight: 400;
+color:#757575;
+font-size: 16px;
+line-height: 30px;
+}
+.text {
+    color:#212121;
+    font:'Roboto';
+    font-weight: 500;
+    line-height: 16px;
+    font-size: 14px;
+    cursor:pointer;
+}
+.link{color:#212121;
+    font: 'Roboto';
+    font-weight: 500;
+    line-height: 16px;
+    font-size: 14px;
+}
+.social-links .link:active, .link:hover { color: #2196F3;
+}
+.link2{font: 'Roboto';
+    font-weight: 500;
+color: #757575; 
+line-height: 16px;
+font-size: 14px;
+}
+.social-links .link2:active, .link2:hover {
+        color: #2196F3;
+}
+.street-name{
+    font:'Roboto';
+    font-weight: 400;
+    line-height: 24px;
+    color:#FFFFFF;
+    background: #2F303A;
+font-size: 14px;}
+.logo{ font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+color: #2196F3; }
+.logo-name{
+    font-family: 'Raleway';
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+}
+.logo-name-footer{
+    font-family: 'Raleway';
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        background: #2F303A;
+        color:#FFFFFF;
+}
+.service-button{
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 30px;
+        color:#FFFFFF;
+        background: #2196F3;
+}
+.lorem-text{
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        color:#212121;
+}
+.description{
+    font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        color:#757575; 
+}
+.our-work{
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+        color:#212121;
+}
+.name{
+    font: 'Roboto';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        color:#212121;
+}
+.job{
+    font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color:#757575;
+}
